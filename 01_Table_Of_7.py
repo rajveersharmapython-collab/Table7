@@ -1,5 +1,3 @@
-
-#Table of 10 commonly used in multiplication
 multiplier = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for multiplicand in multiplier:
     txt = "7"
